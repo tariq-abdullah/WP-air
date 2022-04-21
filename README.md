@@ -26,3 +26,10 @@ as des This way you get faster website with lowest possible
 ## Host your site on cloud storage services
 
 This plugin makes it possible for to automatically push changes to cloud storage services like AWS S3, DigitalOcean Spaces etc.
+
+## Other Features
+
+  - Remove Clutter from the code
+  - Remove Versions from the CSS
+  - Combine CSS Files
+  - Combine JS Files
