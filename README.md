@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/tariq-abdullah/WP-Air/blob/main/air.png?raw=true" />
+</p>
+
 # WP Air - Make your WordPress headless with Static Website generation
 
 Once released, this plugin will help you host your WordPress dashboard and its resulting content(post, pages, custom posttypes) separately. What you get You get is the speediest website possible. 
